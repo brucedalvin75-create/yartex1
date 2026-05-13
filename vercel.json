@@ -1,0 +1,16 @@
+{
+  "rewrites": [
+    { "source": "/assets/photo-1.png", "destination": "https://yartex.vercel.app/assets/photo-1.jpg" },
+    { "source": "/assets/photo-2.png", "destination": "https://yartex.vercel.app/assets/photo-2.jpg" },
+    { "source": "/assets/photo-3.png", "destination": "https://yartex.vercel.app/assets/photo-3.jpg" },
+    { "source": "/assets/photo-4.png", "destination": "https://yartex.vercel.app/assets/photo-4.jpg" },
+    { "source": "/assets/photo-5.png", "destination": "https://yartex.vercel.app/assets/photo-5.jpg" },
+    { "source": "/assets/photo-6.png", "destination": "https://yartex.vercel.app/assets/photo-6.jpg" },
+    { "source": "/assets/photo-7.png", "destination": "https://yartex.vercel.app/assets/photo-7.jpg" },
+    { "source": "/assets/photo-8.png", "destination": "https://yartex.vercel.app/assets/photo-8.jpg" },
+    { "source": "/assets/photo-9.png", "destination": "https://yartex.vercel.app/assets/photo-9.jpg" },
+    { "source": "/assets/photo-10.png", "destination": "https://yartex.vercel.app/assets/photo-10.jpg" },
+    { "source": "/assets/photo-11.png", "destination": "https://yartex.vercel.app/assets/photo-11.jpg" },
+    { "source": "/assets/photo-12.png", "destination": "https://yartex.vercel.app/assets/photo-12.jpg" }
+  ]
+}
